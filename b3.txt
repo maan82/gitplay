@@ -1,1 +1,3 @@
 file from b3
+other changes in b3
+extra change in b3
